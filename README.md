@@ -1,0 +1,2 @@
+# Photo-Based-Social-Network
+photo-based social network using the  MERN framework. The back end is hosted in Heroku, and the front-end site is hosted  using Firebase. The authentication functionality is also handled by Firebase. Material-UI provides the icons in the project. Pusher is used since MongoDB is not a  real-time database like Firebase. You want the posts to reflect the moment someone hits  the Submit button. With this functional photo-based social network, you can upload pictures from your  computer and write a description. The user login is through email
